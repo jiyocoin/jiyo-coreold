@@ -14,9 +14,9 @@ Jiyo is a PoS-based cryptocurrency.
 * Target timespan	1 block
 * Transaction confirmations	3 blocks
 
-Seednode 1	
+* Seednode 1	
 * node.jiyo.io
-Seednode 2	
+* Seednode 2	
 * node2.jiyo.io
 
 
