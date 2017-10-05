@@ -3,21 +3,21 @@ Jiyo development tree
 
 Jiyo is a PoS-based cryptocurrency.
 
-.RPC Port : 22568
-.PPC Port : 22567
-.Block Reward : 84 Coins
-.Total Coin Supply : 70560000 coins
-.PoS percentage	7% per year
-.Last PoW block	block 50000
-.Coinbase maturity	200 blocks
-.Target spacing	64 seconds
-.Target timespan	1 block
-.Transaction confirmations	3 blocks
+*RPC Port : 22568
+*PPC Port : 22567
+*Block Reward : 84 Coins
+*Total Coin Supply : 70560000 coins
+*PoS percentage	7% per year
+*Last PoW block	block 50000
+*Coinbase maturity	200 blocks
+*Target spacing	64 seconds
+*Target timespan	1 block
+*Transaction confirmations	3 blocks
 
 Seednode 1	
-.node.jiyo.io
+*node.jiyo.io
 Seednode 2	
-.node2.jiyo.io
+*node2.jiyo.io
 
 
 
